@@ -1,0 +1,6 @@
+# Byte-compiled / optimized / DLL files
+agricultural_correlations_code/.ipynb_checkpoints
+agricultural_correlations_code/__pycache__/
+*.pyc
+*.swp
+*.swo
